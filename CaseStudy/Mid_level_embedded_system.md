@@ -16,9 +16,10 @@
 * Stabiliser bar - The print head assembly uses a stabiliser bar to ensure that movement is precise and controlled.
 * Power supply - Printers use a standard power supply that is incorporated into the printer itself.
 * Control circuitry - A small but sophisticated amount of circuitry is built into the printer to control all the mechanical aspects of operation, as well as decode the information sent to the printer from the computer.
-*  Interfacing connectors - Printers connect using a serial port or small computer system interface (SCSI) port or USB.
-*  Indication LED - Used to indicate the error during printing or refill of ink required.
-*  Button - Button is used to continue the printing if the printing is stopped in the middel.
+* Gears -  There are some mechanical gears used for the internal mechanism.
+* Interfacing connectors - Printers connect using a serial port or small computer system interface (SCSI) port or USB.
+* Indication LED - Used to indicate the error during printing or refill of ink required.
+* Button - Button is used to continue the printing if the printing is stopped in the middel.
 
 ## Block diagram:
 |WiFi enabled inkjet Printer (Thermal)|
