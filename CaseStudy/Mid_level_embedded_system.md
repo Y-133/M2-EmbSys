@@ -21,7 +21,7 @@
 *  Button - Button is used to continue the printing if the printing is stopped in the middel.
 
 ## Block diagram:
-|** WiFi enabled inkjet Printer (Thermal) **|
+|WiFi enabled inkjet Printer (Thermal)|
 |:--:|
 |![Complex embedded system - Wifi printer](https://user-images.githubusercontent.com/98869524/154610641-2bd0a37f-89fc-4b91-978f-a4a1ef549afa.jpg)|
 
