@@ -1,7 +1,7 @@
 <h1 align="center">Mid_level_embedded_system - Inkjet thermal bubble</h1>
 
 <p align="center">
-  <img width="540" src="https://github.com/Y-133/M2-EmbSys/tree/main/images" alt="Inkjet">
+  <img width="540" src="https://github.com/Y-133/M2-EmbSys/tree/main/images/hp-deskjet-3755.jpg" alt="Inkjet">
 </p>
 
 ## Important components:
