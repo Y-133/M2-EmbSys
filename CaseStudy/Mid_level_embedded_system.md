@@ -50,10 +50,6 @@
 * When the bubble pops out of the nozzle, a vacuum is created. This pulls more ink into the print head from the cartridge. 
 * A typical bubble jet print head has 300 or 600 tiny nozzles per print head, and all of them fire a droplet in sequence. 
 
-## Design: 
-## System Level design:
-
-
 ## Factors affecting the image quality:
 1. Brightness of paper: Smooth paper are better than than the rough paper 
 2. Absorption quality of the paper:
