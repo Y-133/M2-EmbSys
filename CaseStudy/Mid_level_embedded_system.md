@@ -31,10 +31,11 @@ printing.
 * Optical encoders - This helps to precisely control the location of the printed dots, both across and down the page.
 
 ## Block diagram:
+<p align = "center">
 |WiFi enabled inkjet Printer (Thermal)|
 |:--:|
 |![Complex embedded system - Wifi printer](https://user-images.githubusercontent.com/98869524/154610641-2bd0a37f-89fc-4b91-978f-a4a1ef549afa.jpg)|
-
+</p>
 ## Printer working: 
 * When the printer is connected to the system using the USB or serial connector, a driver software is installed for interlinking them. 
 * The data is sent through the connector or using WiFi. 
