@@ -4,22 +4,31 @@
   <img width="680" src="https://github.com/Y-133/M2-EmbSys/blob/main/images/hp-deskjet-3755.jpg" alt="Inkjet">
 </p>
 
+## Description:
+Printers have found a way to our desk a long ago. The printed output are most popular form  of output. The significant decrease in the price of printers itself and improved print quality have made them to be popular, almost found at all the office and homes. There are various kinds depending on the printing methods, most popular one is the inkjet printer. These kind of printers are affordable and produce a high quality photorealistic photograph beside prints. These technology behind these prnters are amazing and same is explained here.  
+Technically to define, a printer is basically an output device which prints a hard copy of the electronic data that is stored in the computer or any other devices. The electronic data may include documents, text, images or even the combination of all three. Particular printers are available for printing particular data types.
+
 ## Important components:
 * USB interface cable connector: Connects the USB cable from the computer to the printer.
 * Paper tray/feeder - Most inkjet printers have a tray that you load the paper into.
-*  Rollers powered by the stepper motor pull the paper in from the tray or feeder.
+*  Rollers powered by the stepper motor pull the paper in from the tray or feeder. Beside this there are passive rollers that support the paper movement of the paper while
+printing.
 * Print head:
-  *Print head has a series of nozzles ranging in few thousands that spray the drop of ink on the paper.
-  *The stepper motor allows the print head to move back and forth across the page.
+  * Print head has a series of nozzles 10 micrometers ranging in few thousands in number, sprays the drop of ink on the paper.
+  * The nozzles are in 10 micrometers in diameter and are placed at 1 mm from the paper, and ink ejection velocities are in the range of 5 to 10 meters per second.
+  * A small heater is formed using a thin film resistive metallic layer less than 1 micrometer thick in the wall of the ink channel leading to each nozzle.
+  * A pulse of electrical current is flowed through the heater resistor for about 1 microsecond in duration.
+  * The stepper motor allows the print head to move back and forth across the page.
   * A belt is used to attach the print head assembly to the stepper motor. 
 * Ink cartridge- is available in several combinations as separate black and colour cartridges, and colour and black come in one cartridge.
 * Stabiliser bar - The print head assembly uses a stabiliser bar to ensure that movement is precise and controlled.
 * Power supply - Printers use a standard power supply that is incorporated into the printer itself.
 * Control circuitry - A small but sophisticated amount of circuitry is built into the printer to control all the mechanical aspects of operation, as well as decode the information sent to the printer from the computer.
-* Gears -  There are some mechanical gears used for the internal mechanism.
+* Gears and shafts -  There are some mechanical gears used for the internal mechanism.
 * Interfacing connectors - Printers connect using a serial port or small computer system interface (SCSI) port or USB.
 * Indication LED - Used to indicate the error during printing or refill of ink required.
 * Button - Button is used to continue the printing if the printing is stopped in the middel.
+* Optical encoders - This helps to precisely control the location of the printed dots, both across and down the page.
 
 ## Block diagram:
 |WiFi enabled inkjet Printer (Thermal)|
@@ -50,7 +59,11 @@
 * As the bubble expands, some of the ink is pushed out of a nozzle onto the paper. 
 * When the bubble pops out of the nozzle, a vacuum is created. This pulls more ink into the print head from the cartridge. 
 * A typical bubble jet print head has 300 or 600 tiny nozzles per print head, and all of them fire a droplet in sequence. 
+* Optical encoders precisely control the location of the printed dots, both across and down the page. 
+* The synchronization signals insure that the ink drops are printed in accurate locations even if there is some variation in the carriage velocity, or if the carriage is accelerating or decelerating near the beginning or end of its travel.
 
+
+DESCRIPTIO:
 ## Factors affecting the image quality:
 1. Brightness of paper: Smooth paper are better than than the rough paper 
 2. Absorption quality of the paper:
