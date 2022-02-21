@@ -1,6 +1,7 @@
-# GPS tracking device with GPS  
-
-![Gps keyy](https://user-images.githubusercontent.com/98869524/154801859-f97d02cb-d714-40c8-ba47-59d4121c7422.png)
+<h1 align="center">simple_embedded_system - GPS tracking device </h1>
+<p align="center">
+  <img width="680" src="https://user-images.githubusercontent.com/98869524/154801859-f97d02cb-d714-40c8-ba47-59d4121c7422.png" alt="GPS tracker">
+</p>
 
 # Description:
 This Project presents a safety device with GPS tracking and message alerts using Arduino based on Atmega 328P controller. This detection and messaging system is composed of a GPS receiver, Aduino and a GSM Modem. GPS Receiver gets the location information from satellites in the form of latitude and longitude.The Arduino processes this information and this processed information is sent to the user using GSM modem A GSM modem is interfaced to the Arduino. The GSM modem sends an SMS to the predefined mobile number. By pressing the switch, the entire system will be activated and the GPS location is sent to the defined number using GSM instantly.
@@ -24,6 +25,10 @@ Torch - An White LED is used to act as a light source.
 *  Buzzer
 *  Safety knife (optional)
 *  Door breaker (optional)
+## Block diagram:
+|Women safety  GPS tracker)|
+|:--:|
+![Simple embeddded - GPS tracker](https://user-images.githubusercontent.com/98869524/154610636-a0895ac0-849c-41c9-abd8-79eecdea5810.jpg)
 
 ## Disadvanatages:
 * The system might be able to send SMS at the areas with low network connections.
