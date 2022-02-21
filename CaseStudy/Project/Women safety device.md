@@ -9,11 +9,13 @@ This needn't be used only in emergency situation but can also be used to share c
 
 
 ## Materials used:
-GPS - GPS(Global Positioning System) is a satellite-based navigation system. It provides time and location-based information to a GPS receiver, located anywhere on or near the earth surface.GPS can pinpoint a device's location with accuracy and by comparing coordinates, the statistics can be used to calculate a device's direction of movement and speed which makes them popular and widely used choice.
-GSM - The GSM system was designed as a second generation (2G) cellular phone technology which provides communication either mobile voice and data services.
-Battery- Carbon zinc, alkaline batteries, 9V, and coin cell are types of primary batteries (non-rechargeable) that would most likely be utilized in an Arduino project.
-Buzzer - Buzzer acts as the alarm system to alert the near by people.
-Torch - An White LED is used to act as a light source. 
+* GPS - GPS(Global Positioning System) is a satellite-based navigation system. It provides time and location-based information to a GPS receiver, located anywhere on or near the earth surface.GPS can pinpoint a device's location with accuracy and by comparing coordinates, the statistics can be used to calculate a device's direction of movement and speed which makes them popular and widely used choice.
+* GSM - The GSM system was designed as a second generation (2G) cellular phone technology which provides communication either mobile voice and data services.
+* Battery- Carbon zinc, alkaline batteries, 9V, and coin cell are types of primary batteries (non-rechargeable) that would most likely be utilized in an Arduino project.
+* Buzzer - Buzzer acts as the alarm system to alert the near by people.
+* Torch - An White LED is used to act as a light source. 
+
+
   
 ## Basic requirements:
 * Emergency sms alert
