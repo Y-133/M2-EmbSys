@@ -5,7 +5,7 @@
 </p>
 
 ## Description:
-Printers have found a way to our desk a long ago. The printed output are most popular form  of output. The significant decrease in the price of printers itself and improved print quality have made them to be popular, almost found at all the office and homes. There are various kinds depending on the printing methods, most popular one is the inkjet printer. These kind of printers are affordable and produce a high quality photorealistic photograph beside prints. These technology behind these prnters are amazing and same is explained here.  
+Printers have found a way to our desk a long ago. The printed output are most popular form  of output. The significant decrease in the price of printers itself and improved print quality have made them to be popular, almost found at all the offices and homes. There are various kinds depending on the printing methods, most popular one is the inkjet printer. These kinds of printers are affordable and produce a high quality photo realistic photograph beside prints. The technology behind these printers is amazing and the same is explained here.  
 Technically to define, a printer is basically an output device which prints a hard copy of the electronic data that is stored in the computer or any other devices. The electronic data may include documents, text, images or even the combination of all three. Particular printers are available for printing particular data types.
 
 ## Important components:
