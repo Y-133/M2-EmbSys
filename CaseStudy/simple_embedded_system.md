@@ -5,7 +5,7 @@
 
 |GPS tracker with safety|
 |:--:|
-|![GPS](https://github.com/Y-133/M2-EmbSys/tree/main/images/GPS3.jpg)|
+|![GPS](![GPS3](https://user-images.githubusercontent.com/98869524/154886417-6cf39f54-352a-4c43-805f-c787881b6bcc.jpg)|
 
 # Description:
 This Project presents a safety device with GPS tracking and message alerts using Arduino based on Atmega 328P controller. This detection and messaging system is composed of a GPS receiver, Aduino and a GSM Modem. GPS Receiver gets the location information from satellites in the form of latitude and longitude.The Arduino processes this information and this processed information is sent to the user using GSM modem A GSM modem is interfaced to the Arduino. The GSM modem sends an SMS to the predefined mobile number. By pressing the switch, the entire system will be activated and the GPS location is sent to the defined number using GSM instantly.
@@ -29,6 +29,7 @@ This needn't be used only in emergency situation but can also be used to share c
 *  Buzzer
 *  Safety knife (optional)
 *  Door breaker (optional)
+
 ## Block diagram:
 |Women safety  GPS tracker)|
 |:--:|
