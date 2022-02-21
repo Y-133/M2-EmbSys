@@ -17,17 +17,32 @@ This needn't be used only in emergency situation but can also be used to share c
 * Battery- Carbon zinc, alkaline batteries, 9V, and coin cell are types of primary batteries (non-rechargeable) that would most likely be utilized in an Arduino project.
 * Buzzer - Buzzer acts as the alarm system to alert the near by people.
 * Torch - An White LED is used to act as a light source. 
-  
+ * On/off switch 
 ## Requirements:
 * Emergency sms alert
 * Torch
 * GPS 
 * GSM/GPRS 
 * Battery
-*  On/Off swtch
-*  Buzzer
-*  Safety knife (optional)
-*  Door breaker (optional)
+* On/Off swtch
+* Buzzer
+* Safety knife (optional)
+* Door breaker (optional)
+* 
+## HIGH LEVEL REQUIREMENTS:-
+| ID | Description | Category | 
+| ----- | ----- | ------- | 
+|HLR01|User should able to use torchlight |technical|  
+|HLR02|User should able to send GPS location using GSM|technical|
+|HLR03|The system should be able to sound alarm |technical|
+|HLR04|User should be able to on/off the torch|technical|   
+|HLR05|User should able to use the knife |technical|
+
+## LOW LEVEL REQUIREMENTS:-
+| ID | Description | Category | 
+| ----- | ----- | ------- |
+|LLR01|The torchlight should be working when turned on whenever used |technical|  
+|LLR02|The GPS location has to be shared using GSM |technical|
 
 ## Block diagram:
 |Women safety  GPS tracker)|
