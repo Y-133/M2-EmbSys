@@ -62,8 +62,19 @@ printing.
 * Optical encoders precisely control the location of the printed dots, both across and down the page. 
 * The synchronization signals insure that the ink drops are printed in accurate locations even if there is some variation in the carriage velocity, or if the carriage is accelerating or decelerating near the beginning or end of its travel.
 
+## HIGH LEVEL REQUIREMENTS:-
+| ID | Description | Category | 
+| ----- | ----- | ------- | 
+|HLR01|User should able to feed the paper |technical|  
+|HLR02|User should able to check the indication LED|technical|
+|HLR03|The system should be able to change the ink catridge |technical|
 
-DESCRIPTIO:
+## LOW LEVEL REQUIREMENTS:-
+| ID | Description | Category | 
+| ----- | ----- | ------- |
+|LLR01|The user should be able to place number of pages as possible |technical|  
+|LLR02|The user indication LED should be working |technical|
+|LLR03|The user should be able to change the catridge |technical|
 ## Factors affecting the image quality:
 1. Brightness of paper: Smooth paper are better than than the rough paper 
 2. Absorption quality of the paper:
