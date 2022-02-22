@@ -54,7 +54,7 @@ This needn't be used only in emergency situation but can also be used to share c
 ## Block diagram:
 |GPS tracker|
 |:--:|
-![Simple embeddded - GPS tracker](![GPS TRACKER4](https://github.com/Y-133/M2-EmbSys/tree/main/images/simple_ES_GPS_blk_dig.jpg)
+![Simple embeddded - GPS tracker](![GPS TRACKER4](https://github.com/Y-133/M2-EmbSys/blob/main/images/simple_ES_GPS_blk_dig.jpg)
 
 ## Advantages: 
 * Beside the GPS tracker and SOS message sender, the saety knife is helpful in escaping or for self defense.
