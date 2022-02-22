@@ -1,4 +1,5 @@
-<h1 align="center">simple_embedded_system - GPS tracker with alert system </h1>
+<h1 align="center">Simple_embedded_system - GPS tracker with alert system </h1>
+<h2 align = "center"> Explore the world without fear </h2>
 <p align="center">
   <img width="680" src="https://user-images.githubusercontent.com/98869524/154801859-f97d02cb-d714-40c8-ba47-59d4121c7422.png" alt="GPS tracker">
 </p>
