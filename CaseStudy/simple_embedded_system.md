@@ -7,6 +7,10 @@
 |:--:|
 |![GPS](![GPS3](https://user-images.githubusercontent.com/98869524/154886417-6cf39f54-352a-4c43-805f-c787881b6bcc.jpg)|
 
+<p align="center">
+  <img width="720" src="https://user-images.githubusercontent.com/98869524/154886417-6cf39f54-352a-4c43-805f-c787881b6bcc.jpg" alt="GPS tracker with other tools">
+</p>
+
 # Description:
 This Project presents a safety device with GPS tracking and message alerts using Arduino based on Atmega 328P controller. This detection and messaging system is composed of a GPS receiver, Aduino and a GSM Modem. GPS Receiver gets the location information from satellites in the form of latitude and longitude.The Arduino processes this information and this processed information is sent to the user using GSM modem A GSM modem is interfaced to the Arduino. The GSM modem sends an SMS to the predefined mobile number. By pressing the switch, the entire system will be activated and the GPS location is sent to the defined number using GSM instantly.
 This needn't be used only in emergency situation but can also be used to share current location. 
@@ -17,7 +21,7 @@ This needn't be used only in emergency situation but can also be used to share c
 * Battery- Carbon zinc, alkaline batteries, 9V, and coin cell are types of primary batteries (non-rechargeable) that would most likely be utilized in an Arduino project.
 * Buzzer - Buzzer acts as the alarm system to alert the near by people.
 * Torch - An White LED is used to act as a light source. 
- * On/off switch 
+* On/Off switch - switch for torch.
 ## Requirements:
 * Emergency sms alert
 * Torch
@@ -49,6 +53,15 @@ This needn't be used only in emergency situation but can also be used to share c
 |:--:|
 ![Simple embeddded - GPS tracker](https://user-images.githubusercontent.com/98869524/154610636-a0895ac0-849c-41c9-abd8-79eecdea5810.jpg)
 
+## Advantages: 
+* Beside the GPS tracker and SOS message sender, the saety knife is helpful in escaping or for self defense.
+* The door breaker is very helpful in breaking the glass doors.
+
 ## Disadvanatages:
 * The system might be able to send SMS at the areas with low network connections.
 *  GSM is a recurring cost for service. 
+
+# Application:
+This GPS tracker is more of a self defense tool which can be used by general public for their safety.
+* Adults, eldery people and even childrens without any hurtable accessories can use this tool.
+* One can use it with keychan or just carry in the pocket. 
