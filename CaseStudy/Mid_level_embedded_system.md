@@ -1,4 +1,5 @@
 <h1 align="center">Mid_level_embedded_system - Inkjet thermal bubble</h1>
+<h2 align = "center"> Print your colorful imagination </h2>
 
 <p align="center">
   <img width="680" src="https://github.com/Y-133/M2-EmbSys/blob/main/images/hp-deskjet-3755.jpg" alt="Inkjet">
