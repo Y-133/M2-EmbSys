@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img width="720" src="https://user-images.githubusercontent.com/98869524/154886417-6cf39f54-352a-4c43-805f-c787881b6bcc.jpg" alt="GPS tracker with other tools">
+  <img width="680" src="https://user-images.githubusercontent.com/98869524/154886417-6cf39f54-352a-4c43-805f-c787881b6bcc.jpg" alt="GPS tracker with other tools">
 </p>
 
 # Description:
@@ -18,6 +18,9 @@ This needn't be used only in emergency situation but can also be used to share c
 * Buzzer - Buzzer acts as the alarm system to alert the near by people.
 * Torch - An White LED is used to act as a light source. 
 * On/Off switch - switch for torch.
+* Battery Indication LED Yellow- This indicated when the power is low but able to operate for few days.
+* Battery Indication LED Red- This indicated when the power is very low but able to operate for few hours.
+
 ## Requirements:
 * Emergency sms alert
 * Torch
@@ -26,9 +29,9 @@ This needn't be used only in emergency situation but can also be used to share c
 * Battery
 * On/Off swtch
 * Buzzer
-* Safety knife (optional)
-* Door breaker (optional)
-* 
+* Safety knife 
+* Door breaker 
+ 
 ## HIGH LEVEL REQUIREMENTS:-
 | ID | Description | Category | 
 | ----- | ----- | ------- | 
@@ -37,12 +40,16 @@ This needn't be used only in emergency situation but can also be used to share c
 |HLR03|The system should be able to sound alarm |technical|
 |HLR04|User should be able to on/off the torch|technical|   
 |HLR05|User should able to use the knife |technical|
+|HLR05|User should able to replace the battery |technical|
+
 
 ## LOW LEVEL REQUIREMENTS:-
 | ID | Description | Category | 
 | ----- | ----- | ------- |
 |LLR01|The torchlight should be working when turned on whenever used |technical|  
 |LLR02|The GPS location has to be shared using GSM |technical|
+|LLR02|The battery should be easily replacable |technical|
+
 
 ## Block diagram:
 |Women safety  GPS tracker)|
@@ -57,7 +64,10 @@ This needn't be used only in emergency situation but can also be used to share c
 * The system might be able to send SMS at the areas with low network connections.
 *  GSM is a recurring cost for service. 
 
-# Application:
+## Application:
 This GPS tracker is more of a self defense tool which can be used by general public for their safety.
 * Adults, eldery people and even childrens without any hurtable accessories can use this tool.
 * One can use it with keychan or just carry in the pocket. 
+
+## Future scope:
+The history of the location travelled can be stored here. So it is more benifitial during hiking or trekking.
