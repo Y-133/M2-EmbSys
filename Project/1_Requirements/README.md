@@ -65,7 +65,7 @@ The gadget runs the game using the Arduino and controlled using the joystick and
 
 ## LOW LEVEL REQUIREMENTS:- ##
 | HLR_ID |LLR_ID | Design_consideration | 
-| ----- | ----- | ----- | ----- |
+| --- | --- | --- | --- |
 | HLR 1.0 | LLR 1.1 | The console display shall work at right FPS |technical|  
 | | LLR 1.2 | The console display shall have controllable screen brightness |technical|
 |HLR 2.0|LLR 2.1|The Joystick shall operate in muti axis direction |technical|  
@@ -75,7 +75,7 @@ The gadget runs the game using the Arduino and controlled using the joystick and
 | |LLR 3.4|The cooling system turns off the fan when the temperature is down to 22°C |technical|  
 
 
-|  1 | 2 | 4 | 2  |   |
+| 1 | 2 | 4 | 2 | 5 |
 |---|---|---|---|---|
 |   |   |   |   |   |
 |   |   |   |   |   |
