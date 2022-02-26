@@ -17,19 +17,19 @@ The gaming industry is arguably one of the most important and innovative sectors
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## SWOT Analysis ##
 ####
-** STRENGTHS **   
+**STRENGTHS**   
 * Console has an auto cooling system.
 * Portable console and has an USB chargeable features.
 * Low cost. 
 
-** WEAKNESSES **  
+**WEAKNESSES**  
 * Doesn't support multiplayer
 * Doesn't support gaming over internet
 
-** OPPORTUNITIES **    
+**OPPORTUNITIES**    
 Ever growing gaming market, the product has a great oppurtunity to make a great business and even pave paths to even more creative, cheaper and powerful DIY gaming console ahead. This project has more potential to expand it into commercial one.  
 
-** THREATS **  
+**THREATS**  
 Comepetetive market with more attracted towards more powerful immersive high graphics PC or other type of gaming console. 
 ####
 
@@ -67,12 +67,12 @@ The gadget runs the game using the Arduino and controlled using the joystick and
 | HLR |LLR ID | Design consideration | 
 | ----- | ----- | ----- | ------- |
 |HLR 1.0|LLR 1.1|The console display shall work at right FPS|technical|  
-|LLR 1.2|The console display shall have controllable screen brightness|technical|
+| |LLR 1.2|The console display shall have controllable screen brightness|technical|
 |HLR 2.0|LLR 2.1|The Joystick shall operate in muti axis direction|technical|  
-|LLR 3.1|The thermistor shall detect the temperature rise and initiate the cooling system|technical|  
-|LLR 3.2|The cooling system turns on the fan using the PWM signal from the controller until the temperature downs to 22°C|technical|  
-|LLR 3.3|The cooling system shall control the speed of the fan when it cools down|technical|  
-|LLR 3.4|The cooling system turns off the fan when the temperature is down to 22°C|technical|  
+|HLR 3.0|LLR 3.1|The thermistor shall detect the temperature rise and initiate the cooling system|technical|  
+||LLR 3.2|The cooling system turns on the fan using the PWM signal from the controller until the temperature downs to 22°C|technical|  
+||LLR 3.3|The cooling system shall control the speed of the fan when it cools down|technical|  
+||LLR 3.4|The cooling system turns off the fan when the temperature is down to 22°C|technical|  
 
 
 |LLR02|User should able to input the expense of individual component along with comments|technical|
