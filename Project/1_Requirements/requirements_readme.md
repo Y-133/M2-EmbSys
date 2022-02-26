@@ -2,21 +2,15 @@
 
 ## Introduction ## 
 ####
-Financial Management is an essential aspect of our daily life. We are caught up in our daily life so much that we forget to realise the importance of financial management and
-we tend to spend without concious. It will be difficult to pay bills and get out of your financial debts without planning to save enough. This project aims to address the problem
-of finance management so the individual can manage their money wisely.
+The gaming industry is arguably one of the most important and innovative sectors in tech today. Its importance to culture, social networking and entertainment cannot be understated. As many enjoy the immersive gaming, there is also a cheering audience who are willing to play the old gold games like Mario bros, Pac Man and so on. The best handheld gaming consoles can keep you entertained anywhere. Unlike PC or other gaming consoles they are portable and lightweight. These are moderately powerful, lightweight machines that are easy to stash in a backpack, or even a pocket, and come at low cost when DIY'ed.  With an ever growing audience in the gaming world it is more reasonable to develop a handheld gaming console at low cost.
 ####
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## BENIFITS: ##  
 #### 
-1. Ensures that financial needs are fulfilled
-2. Helps in managing your income
-3. Budgeting, Savings and expenses 
-4. Personal Finance 
-5. Ensures financial security 
-6. Increase your Assets
-7. Increase in Standard of Living
+1. Entertaining anywhere anytime
+2. Helps to improve cognitive skills 
+3. New way to engage socially 
 ####
 
 
@@ -24,18 +18,18 @@ of finance management so the individual can manage their money wisely.
 ## SWOT Analysis ##
 ####
 **STRENGTHS**   
-Tracks the expense efficienlty and helps to plan the financial goals allocating amount for savings towards it. 
-Warns when the expense crosses the limit set.
+Console with auto cooling system
+Portable and USB pin rechargeable.
 
 **WEAKNESSES**  
-Doesn't have graphical reresentation of the expense. 
-Doesn't support multi user
+Doesn't support multiplayer
+Doesn't support gaming over internet
 
 **OPPORTUNITIES**    
-Digital based expense tracking utility is becoming popular as the digital transaction increases.
+Ever growing gaming market, the product has a great oppurtunity to make a great business and even pave paths to even more creative, cheaper and powerful DIY gaming console ahead. This project has more potential to expand it into commercial one.  
 
 **THREATS**  
-Comepetetive utility tool market attracts more cyber attacks and frequent data theft.
+Comepetetive market with more attracted towards more powerful immersive high graphics PC or other type of gaming console. 
 ####
 
 
