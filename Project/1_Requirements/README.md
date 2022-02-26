@@ -17,53 +17,64 @@ The gaming industry is arguably one of the most important and innovative sectors
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## SWOT Analysis ##
 ####
-**STRENGTHS**   
-Console with auto cooling system
-Portable and USB pin rechargeable.
+** STRENGTHS **   
+* Console has an auto cooling system.
+* Portable console and has an USB chargeable features.
+* Low cost. 
 
-**WEAKNESSES**  
-Doesn't support multiplayer
-Doesn't support gaming over internet
+** WEAKNESSES **  
+* Doesn't support multiplayer
+* Doesn't support gaming over internet
 
-**OPPORTUNITIES**    
+** OPPORTUNITIES **    
 Ever growing gaming market, the product has a great oppurtunity to make a great business and even pave paths to even more creative, cheaper and powerful DIY gaming console ahead. This project has more potential to expand it into commercial one.  
 
-**THREATS**  
+** THREATS **  
 Comepetetive market with more attracted towards more powerful immersive high graphics PC or other type of gaming console. 
 ####
 
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ####
-4W's and 1'H
+5W's and 1'H
 
-### Who ###
-* Common public who are interested to manage their finanace
 ### What ###
-To bulid a system that helps in track the expense and allocate funds to achieve the financial goal.
-### When ###
-When user wants to manage and save money to achieve the financial goals.
+To build a gaming console that could run the simple nintendo like games using low cost controller. 
 ### Where ###
-These utilities are used by the induividual wants to discipline their spending.
+The console can be used at anywhere anytime by the user.
+### When ###
+The product is expected to be delivered within the deadline mentioned.
+### Who ###
+* Common public who are interested in small and simple games. 
+## Why ##
+* Although it is not an essential product the projects aims to explore the possibilities to make a DIY gaming console using low cost controller.  
 ### How ###
-The utility has the opetion to track the expense of each component. The debit and credit details are managed to calculate the monthly saving. Warning is given when the
-expenditure crosses the expense limit. 
-####
+The gadget runs the game using the Arduino and controlled using the joystick and buttons. The console also has good display screen.
 
+####
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## HIGH LEVEL REQUIREMENTS:-
 | ID | Description | Category | 
 | ----- | ----- | ------- | 
-|HLR01|User should able to view expense |technical|  
-|HLR02|User should able to input the expense manually|technical|
-|HLR03|The system should be able to calculate the operations |technical|
-|HLR04|The system should provide correct result|technical|   
-|HLR05|User should able to input the expense manually|technical|
+|HLR01|The console shall be able to display the game played |technical|  
+|HLR02|The console joystick shall control the game play |technical|
+|HLR03|The console shall initiate cooling system automatically when required |technical|
+|HLR04|The on/off shall On/Off the console |technical|   
+|HLR05|The batter shall be charged using a USB charger|technical|
+|HLR06|The battery shall be removable
+|HLR07|The console is designed for an ergonomical and comfortable user experience.
 
 ## LOW LEVEL REQUIREMENTS:-
-| ID | Description | Category | 
-| ----- | ----- | ------- |
-|LLR01|User should able to view expense of individual component along with comments|technical|  
+| HLR |LLR ID | Design consideration | 
+| ----- | ----- | ----- | ------- |
+|HLR 1.0|LLR 1.1|The console display shall work at right FPS|technical|  
+|LLR 1.2|The console display shall have controllable screen brightness|technical|
+|HLR 2.0|LLR 2.1|The Joystick shall operate in muti axis direction|technical|  
+|LLR 3.1|The thermistor shall detect the temperature rise and initiate the cooling system|technical|  
+|LLR 3.2|The cooling system turns on the fan using the PWM signal from the controller until the temperature downs to 22°C|technical|  
+|LLR 3.3|The cooling system shall control the speed of the fan when it cools down|technical|  
+|LLR 3.4|The cooling system turns off the fan when the temperature is down to 22°C|technical|  
+
+
 |LLR02|User should able to input the expense of individual component along with comments|technical|
 |LLR03|The system should be able to view position in the path to achieve financial goals |technical|
 |HLR04|The system should provide correct result|technical|   
