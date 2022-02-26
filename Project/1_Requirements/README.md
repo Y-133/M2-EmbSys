@@ -64,19 +64,19 @@ The gadget runs the game using the Arduino and controlled using the joystick and
 |HLR07|The console is designed for an ergonomical and comfortable user experience.
 
 ## LOW LEVEL REQUIREMENTS:-
-| HLR |LLR ID | Design consideration | 
+| HLR ID |LLR ID | Design consideration | 
 | ----- | ----- | ----- | ------- |
-|HLR 1.0|LLR 1.1|The console display shall work at right FPS|technical|  
-| |LLR 1.2|The console display shall have controllable screen brightness|technical|
-|HLR 2.0|LLR 2.1|The Joystick shall operate in muti axis direction|technical|  
-|HLR 3.0|LLR 3.1|The thermistor shall detect the temperature rise and initiate the cooling system|technical|  
-||LLR 3.2|The cooling system turns on the fan using the PWM signal from the controller until the temperature downs to 22°C|technical|  
-||LLR 3.3|The cooling system shall control the speed of the fan when it cools down|technical|  
-||LLR 3.4|The cooling system turns off the fan when the temperature is down to 22°C|technical|  
+|HLR 1.0|LLR 1.1|The console display shall work at right FPS |technical|  
+| |LLR 1.2|The console display shall have controllable screen brightness |technical|
+|HLR 2.0|LLR 2.1|The Joystick shall operate in muti axis direction |technical|  
+|HLR 3.0|LLR 3.1|The thermistor shall detect the temperature rise and initiate the cooling system |technical|  
+| |LLR 3.2|The cooling system turns on the fan using the PWM signal from the controller until the temperature downs to 22°C |technical|  
+| |LLR 3.3|The cooling system shall control the speed of the fan when it cools down |technical|  
+| |LLR 3.4|The cooling system turns off the fan when the temperature is down to 22°C |technical|  
 
 
-|LLR02|User should able to input the expense of individual component along with comments|technical|
+|LLR02|User should able to input the expense of individual component along with comments |technical|
 |LLR03|The system should be able to view position in the path to achieve financial goals |technical|
-|HLR04|The system should provide correct result|technical|   
+|HLR04|The system should provide correct result |technical|   
 
 
