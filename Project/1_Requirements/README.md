@@ -75,6 +75,10 @@ The gadget runs the game using the Arduino and controlled using the joystick and
 | |LLR 3.4|The cooling system turns off the fan when the temperature is down to 22°C |technical|  
 
 
+|HLR_ID|LLR_ID|Design_consideration|
+| ----- | ----- | ------ |
+| HLR 1.0 | LLR 1.0 | The console display shall work at right FPS | Technical | 
+
 | Item         | Price     | # In stock |
 |--------------|-----------|------------|
 | Juicy Apples | 1.99      | *7*        |
