@@ -75,12 +75,11 @@ The gadget runs the game using the Arduino and controlled using the joystick and
 | |LLR 3.4|The cooling system turns off the fan when the temperature is down to 22°C |technical|  
 
 
-|HLR_ID|LLR_ID|Design_consideration|
-| ----- | ----- | ------ | ----- |
-| HLR 1.0 | LLR 1.0 | The console display shall work at right FPS | Technical | 
-| | LLR 1.1 | The console display shall work at right FPS | Technical |
-| | | | Noooooooooo|
-
+|  1 | 2 | 4 | 2  |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 | Can Reorder | 2nd operation |2nd operation |2nd operation |
 | :---: | --- |
