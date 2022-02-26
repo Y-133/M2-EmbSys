@@ -66,7 +66,7 @@ The gadget runs the game using the Arduino and controlled using the joystick and
 ## LOW LEVEL REQUIREMENTS:-
 | HLR_ID |LLR_ID | Design_consideration | 
 | ----- | ----- | ----- | ------- |
-|HLR 1.0|LLR 1.1|The console display shall work at right FPS |technical|  
+| HLR 1.0 | LLR 1.1 | The console display shall work at right FPS |technical|  
 | |LLR 1.2|The console display shall have controllable screen brightness |technical|
 |HLR 2.0|LLR 2.1|The Joystick shall operate in muti axis direction |technical|  
 |HLR 3.0|LLR 3.1|The thermistor shall detect the temperature rise and initiate the cooling system |technical|  
@@ -74,6 +74,16 @@ The gadget runs the game using the Arduino and controlled using the joystick and
 | |LLR 3.3|The cooling system shall control the speed of the fan when it cools down |technical|  
 | |LLR 3.4|The cooling system turns off the fan when the temperature is down to 22°C |technical|  
 
+
+| Item         | Price     | # In stock |
+|--------------|-----------|------------|
+| Juicy Apples | 1.99      | *7*        |
+| Bananas      | **1.89**  | 5234       |
+
+Item | Price | # In stock
+---|---|---
+Juicy Apples | 1.99 | 739
+Bananas | 1.89 | 6
 
 |LLR02|User should able to input the expense of individual component along with comments |technical|
 |LLR03|The system should be able to view position in the path to achieve financial goals |technical|
