@@ -82,6 +82,15 @@ The gadget runs the game using the Arduino and controlled using the joystick and
 | | | | Noooooooooo|
 
 
+| Can Reorder | 2nd operation |2nd operation |2nd operation |
+| :---: | --- |
+|1st operation|Normal Load <br/>Normal Store| Volatile Load <br/>MonitorEnter|Volatile Store<br/> MonitorExit|
+|Normal Load <br/> Normal Store| | | No|
+|Volatile Load <br/> MonitorEnter| No|No|No|
+|Volatile store <br/> MonitorExit| | No|No|
+
+
+
 | Item         | Price     | # In stock | In stock |
 |--------------|-----------|------------|
 | Juicy Apples | 1.99      | *7*        |
