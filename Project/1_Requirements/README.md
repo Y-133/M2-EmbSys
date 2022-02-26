@@ -79,8 +79,10 @@ The gadget runs the game using the Arduino and controlled using the joystick and
 | ----- | ----- | ------ | ----- |
 | HLR 1.0 | LLR 1.0 | The console display shall work at right FPS | Technical | 
 | | LLR 1.1 | The console display shall work at right FPS | Technical |
+| | | | Noooooooooo|
 
-| Item         | Price     | # In stock |
+
+| Item         | Price     | # In stock | In stock |
 |--------------|-----------|------------|
 | Juicy Apples | 1.99      | *7*        |
 | Bananas      | **1.89**  | 5234       |
