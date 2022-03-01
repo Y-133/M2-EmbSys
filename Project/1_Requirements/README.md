@@ -38,30 +38,30 @@ Comepetetive market with more attracted towards more powerful immersive high gra
 5W's and 1'H
 
 ### What ###
-To build a gaming console that could run the simple nintendo like games using low cost controller. 
+* To build a gaming console that could run the simple nintendo like games using low cost controller. 
 ### Where ###
-The console can be used at anywhere anytime by the user.
+* The console can be used at anywhere anytime by the user.
 ### When ###
-The product is expected to be delivered within the deadline mentioned.
+* The product is expected to be delivered within the deadline mentioned.
 ### Who ###
 * Common public who are interested in small and simple games. 
 ## Why ##
 * Although it is not an essential product the projects aims to explore the possibilities to make a DIY gaming console using low cost controller.  
 ### How ###
-The gadget runs the game using the Arduino and controlled using the joystick and buttons. The console also has good display screen.
+* The gadget runs the game using the Arduino and controlled using the joystick and buttons. The console also has good display screen.
 
 ####
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## HIGH LEVEL REQUIREMENTS:- ##
 | ID | Description |  
-| ----- | ----- | ------- | 
-|HLR01|The console shall be able to display the game played |
-|HLR02|The console joystick shall control the game play |
-|HLR03|The console shall initiate cooling system automatically when required |
-|HLR04|The on/off shall On/Off the console |  
-|HLR05|The battery shall be charged using a USB charger|
-|HLR06|The battery shall be removable|
-|HLR07|The console shall be designed for an ergonomical and comfortable user experience.|
+| :-----: | ----- | 
+| HLR01 | The console shall be able to display the game played |
+| HLR02 | The console joystick shall control the game play |
+| HLR03 | The console shall initiate cooling system automatically when required |
+| HLR04 | The on/off shall On/Off the console |  
+| HLR05 | The battery shall be charged using a USB charger|
+| HLR06 | The battery shall be removable|
+| HLR07 | The console shall be designed for an ergonomical and comfortable user experience.|
 
 ## LOW LEVEL REQUIREMENTS:- ##
 | HLR_ID |LLR_ID | Design_consideration | 
