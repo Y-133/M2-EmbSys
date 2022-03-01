@@ -55,10 +55,10 @@ The gadget runs the game using the Arduino and controlled using the joystick and
 ## HIGH LEVEL REQUIREMENTS:- ##
 | ID | Description |  
 | ----- | ----- | ------- | 
-|HLR01|The console shall be able to display the game played |technical|  
-|HLR02|The console joystick shall control the game play |technical|
-|HLR03|The console shall initiate cooling system automatically when required |technical|
-|HLR04|The on/off shall On/Off the console |technical|   
+|HLR01|The console shall be able to display the game played |
+|HLR02|The console joystick shall control the game play |
+|HLR03|The console shall initiate cooling system automatically when required |
+|HLR04|The on/off shall On/Off the console |  
 |HLR05|The battery shall be charged using a USB charger|
 |HLR06|The battery shall be removable|
 |HLR07|The console shall be designed for an ergonomical and comfortable user experience.|
