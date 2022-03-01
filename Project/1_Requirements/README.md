@@ -53,55 +53,29 @@ The gadget runs the game using the Arduino and controlled using the joystick and
 ####
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## HIGH LEVEL REQUIREMENTS:- ##
-| ID | Description | Category | 
+| ID | Description |  
 | ----- | ----- | ------- | 
 |HLR01|The console shall be able to display the game played |technical|  
 |HLR02|The console joystick shall control the game play |technical|
 |HLR03|The console shall initiate cooling system automatically when required |technical|
 |HLR04|The on/off shall On/Off the console |technical|   
-|HLR05|The batter shall be charged using a USB charger|technical|
-|HLR06|The battery shall be removable
-|HLR07|The console is designed for an ergonomical and comfortable user experience.
+|HLR05|The battery shall be charged using a USB charger|
+|HLR06|The battery shall be removable|
+|HLR07|The console shall be designed for an ergonomical and comfortable user experience.|
 
 ## LOW LEVEL REQUIREMENTS:- ##
 | HLR_ID |LLR_ID | Design_consideration | 
-| --- | --- | --- | --- |
-| HLR 1.0 | LLR 1.1 | The console display shall work at right FPS |technical|  
-| | LLR 1.2 | The console display shall have controllable screen brightness |technical|
-|HLR 2.0|LLR 2.1|The Joystick shall operate in muti axis direction |technical|  
-|HLR 3.0|LLR 3.1|The thermistor shall detect the temperature rise and initiate the cooling system |technical|  
-| |LLR 3.2|The cooling system turns on the fan using the PWM signal from the controller until the temperature downs to 22°C |technical|  
-| |LLR 3.3|The cooling system shall control the speed of the fan when it cools down |technical|  
-| |LLR 3.4|The cooling system turns off the fan when the temperature is down to 22°C |technical|  
+| :-----: | :-----: | -------------------- | 
+| HLR 1 | LLR 1.1 | The console display shall work at right FPS |
+| | LLR 1.2 | The console display shall have controllable screen brightness |
+| HLR 2 | LLR 2.1 | The Joystick shall operate in muti axis direction |  
+| HLR 3 | LLR 3.1 | The thermistor shall detect the temperature rise and initiate the cooling system | 
+| | LLR 3.2 | The cooling system turns on the fan using the PWM signal from the controller until the temperature downs to 22°C |
+| | LLR 3.3 | The cooling system shall control the speed of the fan when it cools down | 
+| | LLR 3.4 | The cooling system turns off the fan when the temperature is down to 22°C |  
+| HLR 4 | LLR 4.1 | The button shall be used to turn On/off the console |
+| HLR 5 | LLR 5.1 | The battery shall be charged using a USB charger |
+| HLR06 | LLR 6.1 | The battery shall be removable/replacable |
+| HLR07 | LLR 7.1 | The console shall be designed for an ergonomical and comfortable user experience.|
 
-
-| 1 | 2 | 4 | 2 | 5 |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
-| Can Reorder | 2nd operation |2nd operation |2nd operation |
-| :---: | --- |
-|1st operation|Normal Load <br/>Normal Store| Volatile Load <br/>MonitorEnter|Volatile Store<br/> MonitorExit|
-|Normal Load <br/> Normal Store| | | No|
-|Volatile Load <br/> MonitorEnter| No|No|No|
-|Volatile store <br/> MonitorExit| | No|No|
-
-
-
-| Item         | Price     | # In stock | In stock |
-|--------------|-----------|------------|
-| Juicy Apples | 1.99      | *7*        |
-| Bananas      | **1.89**  | 5234       |
-
-Item | Price | # In stock
----|---|---
-Juicy Apples | 1.99 | 739
-Bananas | 1.89 | 6
-
-|LLR02|User should able to input the expense of individual component along with comments |technical|
-|LLR03|The system should be able to view position in the path to achieve financial goals |technical|
-|HLR04|The system should provide correct result |technical|   
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
