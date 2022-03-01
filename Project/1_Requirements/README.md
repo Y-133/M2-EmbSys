@@ -25,10 +25,10 @@ The gaming industry is arguably one of the most important and innovative sectors
 * Doesn't support gaming over internet
 
 **OPPORTUNITIES**    
-Ever growing gaming market, the product has a great oppurtunity to make a great business and even pave paths to even more creative, cheaper and powerful DIY gaming console ahead. This project has more potential to expand it into commercial one.  
+* Ever growing gaming market, the product has a great oppurtunity to make a great business and even pave paths to even more creative, cheaper and powerful DIY gaming console ahead. This project has more potential to expand it into commercial one.  
 
 **THREATS**  
-Comepetetive market with more attracted towards more powerful immersive high graphics PC or other type of gaming console. 
+* Comepetetive market with more attracted towards more powerful immersive high graphics PC or other type of gaming console. 
 ####
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
