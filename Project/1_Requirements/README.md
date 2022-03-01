@@ -1,5 +1,3 @@
-# Requirements: #
-
 ## Introduction ## 
 ####
 The gaming industry is arguably one of the most important and innovative sectors in tech today. Its importance to culture, social networking and entertainment cannot be understated. As many enjoy the immersive gaming, there is also a cheering audience who are willing to play the old gold games like Mario bros, Pac Man and so on. The best handheld gaming consoles can keep you entertained anywhere. Unlike PC or other gaming consoles they are portable and lightweight. These are moderately powerful, lightweight machines that are easy to stash in a backpack, or even a pocket, and come at low cost when DIY'ed.  With an ever growing audience in the gaming world it is more reasonable to develop a handheld gaming console at low cost.
@@ -52,6 +50,7 @@ Comepetetive market with more attracted towards more powerful immersive high gra
 
 ####
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Requirements: #
 ## HIGH LEVEL REQUIREMENTS:- ##
 | ID | Description |  
 | :-----: | ----- | 
