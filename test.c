@@ -13,7 +13,7 @@ void setUp()
 /* Required by the unity test framework */
 void tearDown(){}
 
-typedef struct 
+struct input  
 {
     char name[b];   
     char month[12];
@@ -55,103 +55,92 @@ typedef struct
     float investment_ret;
 }user; 
 
-user feeds_1 =  { .food = 10 , .mobile = 10, .outing= 10, .bike = 10, .payb0lls = 10, .sal = 20, .insurance = 10, .travel = 10,
-.shopping = 10, .clothing= 10, .skill_dev = 10, .credit = 0, .debit = 0, .savings = 0, .broke=0, .essential_expense = 0, .non_essential_expense = 0, .multi = 0, .rent_ret =20, .sales_ret = 20,
- .miscellaneous_inv = 20, .miscellaneous_ret = 20, .miscellaneous_exp = 10, .investment_ret = 10, .stocks = 20, .bonds = 20, .gold= 20, .po_fd= 20, .bank_fd= 20, .real_estate= 20, .PF= 20, .mutual_fund= 20,
-.investment= 0, .chit_fund= 20}
+user feeds_1 = { .food = 10 , .mobile = 10, .outing= 10, .bike = 10, .paybills = 10, .insurance = 10, .travel = 10,.shopping = 10, .clothing= 10, .skill_dev = 10, .miscellaneous_exp = 10,
+                 .essential_expense = 0, .non_essential_expense = 0, .debit = 0, .credit = 0, .savings = 0, .broke=0, .multi = 0, .sal = 20, .rent_ret =20, .sales_ret = 20, 
+                 .miscellaneous_ret = 20, .investment_ret = 20, .investment= 0, .stocks = 20, .bonds = 20, .gold= 20, .po_fd= 20, .bank_fd= 20,
+                 .real_estate= 20, .PF= 20, .mutual_fund= 20, .chit_fund= 20, .miscellaneous_inv = 20,}
 
-user feeds_2 =  { .food = 10 , .mobile = 10, .outing= 10, .bike = 10, .payb0lls = 10, .sal = 20, .insurance = 10, .travel = 10,
-.shopping = 10, .clothing= 10, .skill_dev = 10, .credit = 0, .debit = 0, .savings = 0, .broke=0, .essential_expense = 0, .non_essential_expense = 0, .multi = 0, .rent_ret =20, .sales_ret = 20,
- .miscellaneous_inv = 20, .miscellaneous_ret = 20, .miscellaneous_exp = 10, .investment_ret = 10, .stocks = 20, .bonds = 20, .gold= 20, .po_fd= 20, .bank_fd= 20, .real_estate= 20, .PF= 20, .mutual_fund= 20,
-.investment= 0, .chit_fund= 20}
+
+user feeds_2 = { .food = 10 , .mobile = 10, .outing= 10, .bike = 10, .paybills = 10, .insurance = 10, .travel = 10,.shopping = 10, .clothing= 10, .skill_dev = 10, .miscellaneous_exp = 10,
+                 .essential_expense = 0, .non_essential_expense = 0, .debit = 0, .credit = 0, .savings = 0, .broke=0, .multi = 0, .sal = 20, .rent_ret =20, .sales_ret = 20, 
+                 .miscellaneous_ret = 20, .investment_ret = 20, .investment= 0, .stocks = 20, .bonds = 20, .gold= 20, .po_fd= 20, .bank_fd= 20,
+                 .real_estate= 20, .PF= 20, .mutual_fund= 20, .chit_fund= 20, .miscellaneous_inv = 20,}
+
 
 //This will pass
-TEST_ASSERT_EQUAL_MEMORY(&feeds_1, &feeds_2, sizeof(user));
-//This will fail
+TEST_ASSERT_EQUAL_MEMORY(&user, &feeds_2, sizeof(user));
 
+/*
 float salary, food, mobile, outing, bike, paybills, sal, insurance, travel,
 shopping, clothing, skill_dev, credit, debit, savings, broke, rent, 
 essential_expense, non_essential_expense, multi, rent_ret, sales_ret,
  miscellaneous_inv, miscellaneous_ret, miscellaneous_exp, 
 investment_ret; 
-
 int stocks, bonds, gold, po_fd, bank_fd, real_estate, PF, mutual_fund,
-investment, chit_fund;
-
+investment, chit_fund; --9
+*/
 
 void test_investments(void)
-{
-    TEST_ASSERT_EQUAL_INT( , investments());
+{   
+    investments()
+    TEST_ASSERT_EQUAL_INT(  180 ,investment);
 }
 
 void test_expense_data(void)
-{
-    TEST_ASSERT_EQUAL_FLOAT( ,expense_data());
+{ 
+    struct user feeds_1;
+    expense_data()
+    TEST_ASSERT_EQUAL_FLOAT( 110, debit);
 }
 
 void test_income_data(void)
 {
-    TEST_ASSERT_EQUAL_FLOAT( , income_data());
+    income_data()
+    TEST_ASSERT_EQUAL_FLOAT( 100, multi);
 }
 
 void test_financial_status(void)
 {
-    TEST_ASSERT_EQUAL_FLOAT( , financial_status())
+    financial_status()
+    TEST_ASSERT_EQUAL_FLOAT( 190, broke);
+    TEST_ASSERT_EQUAL_FLOAT( 0, savings);
 }
 
 void test_display_expenses(void)
 {
-TEST_ASSERT_EQUAL_FLOAT( , display_expenses)
+    TEST_ASSERT_EQUAL_FLOAT(0 , display_expenses())
 }
 
 void test_display_income(void)
 {
-TEST_ASSERT_EQUAL_FLOAT( , display_income)
+    TEST_ASSERT_EQUAL_FLOAT(0 , display_income())
 }
 
 void test_display_investments(void)
 {
-TEST_ASSERT_EQUAL_INT( , display_investments)
+    TEST_ASSERT_EQUAL_INT(0 , display_investments())
 }
 
 void test_finance_summary(void)
 {
-TEST_ASSERT_EQUAL_FLOAT( , finance_summary)
-}
-
-
-
-float arr_2[]={1.1,2.9,1.1,2.9,3.5,4.2,5.4,2.9,0};
-    int n_2 = 9;
-void test_sphere_vol(void){
-    TEST_ASSERT_EQUAL_FLOAT( 50965.011719,sphere_vol( 23) );
-    TEST_ASSERT_EQUAL_FLOAT( 150.532547,sphere_vol( 3.3) );
-    TEST_ASSERT_EQUAL_FLOAT( 54063731310592.000000,sphere_vol( 23457) );
-}
-
-int main(void){
-    UNITY_BEGIN();
-    RUN_TEST(test_game);
-    return UNITY_END();
+    TEST_ASSERT_EQUAL_FLOAT( 0, finance_summary())
 }
 
 int main(void)
 {
     /* Initiate the Unity Test Framework */
     UNITY_BEGIN();
-
+    struct user feeds_1;
     /* Run Test functions */
-    RUN_TEST(test_game);
-    RUN_TEST(test_game);
-    RUN_TEST(test_game);
-    RUN_TEST(test_game);
-    RUN_TEST(test_game);
-    RUN_TEST(test_game);
-    RUN_TEST(test_game);
-    RUN_TEST(test_game);
-    RUN_TEST(test_game);
-
-
+    RUN_TEST(test_investments);
+    RUN_TEST(test_expense_data);
+    RUN_TEST(test_income_data);
+    RUN_TEST(test_financial_status);
+    RUN_TEST(test_display_expenses);
+    RUN_TEST(test_display_income);
+    RUN_TEST(test_display_investments);
+    RUN_TEST(test_finance_summary);
+    
     /* Close the Unity Test Framework */
     return UNITY_END();
 }
