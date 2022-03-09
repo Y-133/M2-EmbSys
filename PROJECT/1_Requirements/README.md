@@ -31,15 +31,16 @@ The gaming industry is arguably one of the most important and innovative sectors
 ####
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## MATERIALS  REQUIRED:
-1. ARDUINO UNO:
-2. BLDC MOTOR(assuumed as dc motor):
-3. MOTOR DRIVER L293: 
-4. COOLING FAN:
-5. OLED DISPLAY SSD1306: 
-6. OPAMP LM358:
-7. SPEAKER:
-8. BATTERY:
-9. RESISTOR AND CAPACITOR:
+9. BATTERY:
+10. RESISTOR AND CAPACITOR:
+
+| Sl.no | Description | Pic |
+|  | -----| :----: |
+| 1 | Arduino UNO <br> <p align = "justify"> The ATmega328P is the brain of the Arduino UNO. The board operates at 5 volt. DC Current for all input/output pin is 40 mA. It features 14 digital input/output pins, 6 analog inputs, 2 UARTs,1 I2C, an ICSP headerand a reset button It can be powered either with a USB B type cable or directly power using the Vin pin in the board. The Arduino UNO meets the console's necessary requirement such as sufficient number of I/O Pins, memory and processing capabilities. Although arduino performance in simulide is slow, the real hardware meets the expected performance. </p> | ![UNO](https://github.com/Y-133/M2-EmbSys/blob/e7265c727bc5bc9a7367844f674d3fcffba10c60/PROJECT/IMAGES/UNO.jfif) |
+| 2 | BLDC fan <br><p align = "justify"> A brushless DC motor (also known as a BLDC motor or BL motor) is an electronically commuted DC motor which does not have brushes. The controller provides pulses of current to the motor windings which control the speed and torque of the synchronous motor. Here 5V </p> | ![BLDC](https://github.com/Y-133/M2-EmbSys/blob/338a9a43702ffbfe365a5e691b152cfae9c07217/PROJECT/IMAGES/12v-dc%20cooling-fan.jpg) |
+| 3 | OLED DISPLAY SSD1306: <br> <p align = "justify"> OLED is organic light emitting diode that emits light in response to an electric current. OLED display works with no backlight so it can display deep black levels. It is small in size and light in weight than Liquid Crystal Displays 128 x 64 OLED display is simple dot matrix graphic display.  By just turning on/off these pixel’s led we can display graphical image of any shape on it. </p>| ![OLED](https://github.com/Y-133/M2-EmbSys/blob/fd0ed877e9a20256062a1eb71e5f74bf8af4d888/PROJECT/IMAGES/oled_SS1306.jfif) |  
+| 4 | Buzzer: <br> <p align ="justify"> Whenever an electric potential is applied across a piezoelectric material, a pressure variation is generated. A piezo buzzer consists of piezo crystals in between two conductors. When a potential difference is applied across these crystals, they push one conductor and pull the other conductor by their internal property. The continuous pull and push action generates a sharp sound wave. </p>| ![Buzzer](https://github.com/Y-133/M2-EmbSys/blob/593694c64d9b753d07b59f6b3207d79461aad9fa/PROJECT/IMAGES/buzzer.jfif) |
+| 5 | LM358:  <br> <p align ="justify"> The LM358 IC is a great, low power and easy to use dual channel op-amp IC. It consists of two internally frequency compensated, high gain, independent op-amps. This IC is designed for specially to operate from a single power supply over a wide range of voltages. It has large voltage gain of 100 dB </p>| ![LM358](https://github.com/Y-133/M2-EmbSys/blob/e996c1071cc07582b5e01ac64c7e561d0445bad6/PROJECT/IMAGES/lm358.jpg) |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## SWOT Analysis ##
