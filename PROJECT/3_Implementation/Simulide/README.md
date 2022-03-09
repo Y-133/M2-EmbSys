@@ -5,7 +5,7 @@
 <h3 align = "center"><i>Guard your galaxy</i></h3>
 
 <p align="center">
-  <img width="680" src=" https://github.com/Y-133/M2-EmbSys/blob/main/images/joystick_fan.jpg">
+  <img width="680" src=" https://github.com/Y-133/M2-EmbSys/blob/main/images/joystick_fan.jpg" alt="Console">
 </p>
 
 ## Overview of the console: ## 
