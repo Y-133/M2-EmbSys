@@ -1,16 +1,17 @@
-# FINANCE MANAGER #
-* Project tracks the expenses, helps to input and monitor expenses for different component.
+
+* SPACE WARRIOR is a arduino based gaming console that runs a game space war. 
 ------------------------------------------------
+<h1 align="center"> SPACE WARRIOR </h1>
+<i><h3 align = "center"> Guard your galaxy </h3></i>
+
+<img width="680" src=" https://github.com/Y-133/M2-EmbSys/blob/2801dd08b966b9d2cf655811155bac894a4c0a77/PROJECT/IMAGES/star.gif" alt="STAR WAR" align="right" >
+
 ## FOLDER STURCUTURE: ##
 
 |FOLDER NAME | DESCRIPTION |
 | --------| -------- |
 | Documentation | This folder has the doxyfile created using doxygen that documents the program |
-| inc | This folder has the header file (FM.h) of the program |
-| src | This folder has the functions defined in a file FM.c| 
-| test | This folder has the the test file that auto run the unity test |
-| unity | This folder has all the unity files | 
-| Makefile | This file helps to build, run all the multi file with one go |
-| project_main.c| This file contains the main function of the program |
+| SIMULATION FILE ALL | This folder has all the simualtion and arduino files |
+| lib | This folder has all the external library used in the project |
 
 -----------------------------------------------------------------------------------------
