@@ -1,6 +1,6 @@
 # Requirements: #
 
-## Introduction ## 
+## Product research ## 
 ####
 The gaming industry is arguably one of the most important and innovative sectors in tech today. Its importance to culture, social networking and entertainment cannot be understated. As many enjoy the immersive gaming, there is also a cheering audience who are willing to play the old gold games like Mario bros, Pac Man and so on. The best handheld gaming consoles can keep you entertained anywhere. Unlike PC or other gaming consoles they are portable and lightweight. These are moderately powerful, lightweight machines that are easy to stash in a backpack, or even a pocket, and come at low cost when DIY'ed.  With an ever growing audience in the gaming world it is more reasonable to develop a handheld gaming console at low cost.
 ####
@@ -80,15 +80,15 @@ The gaming industry is arguably one of the most important and innovative sectors
 ## LOW LEVEL REQUIREMENTS:- ##
 | HLR_ID |LLR_ID | Design_consideration | 
 | :-----: | :-----: | -------------------- | 
-| HLR 1 | LLR 1.1 | The console's OLED display shall display the game play refreshing the frames at faster rate |
-| HLR 2 | LLR 2.1 | The push buttons shall be able to work |  
-| HLR 3 | LLR 3.1 | The thermistor shall detect the temperature rise accurately | 
-| | LLR 3.2 | The cooling system is turned on by the controller automatically |
-| | LLR 3.3 | The cooling system turns on the fan using the PWM signal with 50% duty cycle from the controller until the temperature downs to 25°C |
-| | LLR 3.3 | The cooling system shall control the speed of the fan when it cools down | 
-| | LLR 3.4 | The cooling system turns off the fan when the temperature is down to 25°C |  
-| HLR 4 | LLR 4.1 | The button shall be used to turn On/off the console |
-| HLR 5 | LLR 5.1 | The battery in the console shall be removable and replaceable |
-| HLR07 | LLR 7.1 | The console shall be designed for an ergonomical and comfortable user experience.|
+| HLR_1 | LLR_1.1 | The console's OLED display shall display the game play refreshing the frames at faster rate |
+| HLR_2 | LLR_2.1 | The push buttons shall be able to work |  
+| HLR_3 | LLR_3.1 | The thermistor shall detect the temperature rise accurately | 
+| | LLR_3.2 | The cooling system is turned on by the controller automatically |
+| | LLR_3.3 | The cooling system turns on the fan using the PWM signal with 50% duty cycle from the controller until the temperature downs to 25°C |
+| | LLR_3.3 | The cooling system shall control the speed of the fan when it cools down | 
+| | LLR_3.4 | The cooling system turns off the fan when the temperature is down to 25°C |  
+| HLR_4 | LLR_4.1 | The button shall be used to turn On/off the console |
+| HLR_5 | LLR_5.1 | The battery in the console shall be removable and replaceable |
+| HLR_6 | LLR_6.1 | The console shall be designed for an ergonomical and comfortable user experience.|
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
