@@ -2,87 +2,94 @@
 
 ## Introduction ## 
 ####
-Financial Management is an essential aspect of our daily life. We are caught up in our daily life so much that we forget to realise the importance of financial management and
-we tend to spend without concious. It will be difficult to pay bills and get out of your financial debts without planning to save enough. This project aims to address the problem
-of finance management so the individual can manage their money wisely.
+The gaming industry is arguably one of the most important and innovative sectors in tech today. Its importance to culture, social networking and entertainment cannot be understated. As many enjoy the immersive gaming, there is also a cheering audience who are willing to play the old gold games like Mario bros, Pac Man and so on. The best handheld gaming consoles can keep you entertained anywhere. Unlike PC or other gaming consoles they are portable and lightweight. These are moderately powerful, lightweight machines that are easy to stash in a backpack, or even a pocket, and come at low cost when DIY'ed.  With an ever growing audience in the gaming world it is more reasonable to develop a handheld gaming console at low cost.
 ####
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## BENIFITS: ##  
 #### 
-1. Ensures that financial needs are fulfilled
-2. Helps in managing your income
-3. Budgeting, Savings and expenses 
-4. Personal Finance 
-5. Ensures financial security 
-6. Increase your Assets
-7. Increase in Standard of Living
+1. Entertaining partner at anywhere anytime
+2. Helps to improve cognitive skills 
+3. New way to engage socially with peers
 ####
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## FEATURES: ##
 ####
-1. Input various expense
-2. Input various income sources
-3. View individual components
-4. View essential and non-essential expenses which helps to control the expense in respective components
-5.  View the account summary
+1. OLED screen
+2. Effective auto cooling system
+3. Portable console and has an USB chargeable features.
+4. Powerful audio
 ####
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Future scope ##
 ####
 1) Multi user
-2) Set financial goals
-3) Monthly and daily input 
-4) View monthly and daily financial components
+2) Erganomical design
+3) Fast charger with rechargeable batreries
+4) Powerful processor
 ####
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## SWOT Analysis ##
+## SWOT Analysis ##
 ####
-![SWOT_analysis](https://github.com/Y-133/M1-Finance_Manager_App/blob/main/IMAGES/SWOT%20ANALYSIS.jpg)
-####
+**STRENGTHS**   
+* Console has an auto cooling system.
+* Portable console and has an USB chargeable features.
+* Low cost. 
 
+**WEAKNESSES**  
+* Doesn't support multiplayer
+* Doesn't support gaming over internet
+
+**OPPORTUNITIES**    
+* Ever growing gaming market, the product has a great oppurtunity to make a great business and even pave paths to even more creative, cheaper and powerful DIY gaming console ahead. This project has more potential to expand it into commercial one.  
+
+**THREATS**  
+* Comepetetive market with more attracted towards more powerful immersive high graphics PC or other type of gaming console. 
+####
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ####
 4W's and 1'H
 
-### Who ###
-* Common public who are interested to manage their finanace
 ### What ###
-* To bulid a system that helps in track the expense and allocate funds to achieve the financial goal.
-### When ###
-* When user wants to manage and save money to achieve the financial goals.
+* To build a gaming console that could run the simple nintendo like games using low cost controller. 
 ### Where ###
-* These utilities are used by the induividual wants to discipline their spending.
+* The console can be used at anywhere anytime by the user.
+### When ###
+* The product is expected to be delivered within the deadline mentioned.
+### Who ###
+* Common public who are interested in small and simple games. 
+## Why ##
+* Although it is not an essential product the projects aims to explore the possibilities to make a DIY gaming console using low cost controller.  
 ### How ###
-* The utility has the opetion to track the expense of each component. The debit and credit details are managed to calculate the monthly saving. Warning is given when the
-expenditure crosses the expense limit. 
+* The gadget runs the game using the Arduino and controlled using the joystick and buttons. The console also has good display screen.
+
 ####
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# DETAILED REQUIREMENTS: 
-#
-## HIGH LEVEL REQUIREMENTS:-
-| ID | Description | Category | 
-| ----- | ----- | ------- | 
-|HLR01|User shall be able to input the expense |technical|
-|HLR02|User shall be able to input the income from various sources |technical|
-|HLR03|User shall be able to view expense |technical|  
-|HLR04|User shall be able to view the income |technical|
-|HLR05|User shall be able to view the investments made |technical|
-|HLR06|User shall be able to view the financial status |technical|
+# Requirements: #
+## HIGH LEVEL REQUIREMENTS:- ##
+| ID | Description |  
+| :-----: | ----- | 
+| HLR01 | The console shall be able to display the game played |
+| HLR02 | The console button shall control the game play |
+| HLR03 | The console shall initiate cooling system automatically when required |
+| HLR04 | The on/off shall On/Off the console |  
+| HLR05 | The battery shall be removed and replaced |
+| HLR06 | The console shall be designed for an ergonomical and comfortable user experience.|
 
-## LOW LEVEL REQUIREMENTS:-
-| HLR_ID | LLR_ID  | Description                                                          |
-|:--------: | :---------: | :----------------------------------------------------------------------: |
-| HLR_01 | LLR_1.1 | User shall be able to input the expense for various components       |
-| HLR_02 | LLR_2   | User shall be able to input the income from various sources          |
-| HLR_03 | LLR_3.1 | User shall be able to view expense                                   |
-|        | LLR_3.2 | User shall be able to view Essential and non essential expenses made |
-| HLR_04 | LLR_4.1 | User shall be able to view the income of various sources             |
-| HLR_05 | LLR_5.1 | User shall be able to view the investments made                      |
-| HLR_06 | LLR_6.1 | User shall be able to view the financial summary                     |
+## LOW LEVEL REQUIREMENTS:- ##
+| HLR_ID |LLR_ID | Design_consideration | 
+| :-----: | :-----: | -------------------- | 
+| HLR 1 | LLR 1.1 | The console's OLED display shall display the game play refreshing the frames at faster rate |
+| HLR 2 | LLR 2.1 | The push buttons shall be able to work |  
+| HLR 3 | LLR 3.1 | The thermistor shall detect the temperature rise accurately | 
+| | LLR 3.2 | The cooling system is turned on by the controller automatically |
+| | LLR 3.3 | The cooling system turns on the fan using the PWM signal with 50% duty cycle from the controller until the temperature downs to 25°C |
+| | LLR 3.3 | The cooling system shall control the speed of the fan when it cools down | 
+| | LLR 3.4 | The cooling system turns off the fan when the temperature is down to 25°C |  
+| HLR 4 | LLR 4.1 | The button shall be used to turn On/off the console |
+| HLR 5 | LLR 5.1 | The battery in the console shall be removable and replaceable |
+| HLR07 | LLR 7.1 | The console shall be designed for an ergonomical and comfortable user experience.|
 
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
