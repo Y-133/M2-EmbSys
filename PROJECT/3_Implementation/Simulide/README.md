@@ -15,6 +15,6 @@ The cooling system for the console and the battery is used to keep the temoeratu
 output. This gives the user an immersive experience. 
 ####
 
-## |Folder content |
+|Folder content |
 |--------|
 | SIMULATION FILE: SIMULIDE | ##
