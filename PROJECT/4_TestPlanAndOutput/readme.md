@@ -34,11 +34,9 @@
 | **High_leve_Test ID** | **Low_leve_Test ID** | **Description**       | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 | :-------------------: | :------------------: | :-------------------: | :--------: | :---------: |:-------------: | :--------------: |
 | H_01 | L_01.1 | Console shall turn on with 5V | 5V supply | Game running without error | The game starts run with audio ouput| mannual |
-|  | L_2.1 | Audio output: When the console is turned on the speaker shall turn on  |  Signal from the controller |Speaker works |The intro notes and the game sound is played using the speaker | mannual |
-|  | L_3.1 | RTD sensor working is checked by varying the temperature | The temperature knob in the IDE is changed to obervee the change in temperature |Temperature change and auto cooling system turns on | no error |Mannual |
-|  |-L_.4.1| Fan runs when poewred using the PWM signal from the controller | Controller signal | Fan turns on | Fan turns on  |Mannual |
-|  | L_5.1 | Check if total investment is calculated | all investmen component | total investment | total investment amount | mannual |
-| | L_6.1 | calculate debit of float type | float value | debit | debit| mannual |
-|  H_05 |L_5.1    | Fan turns off after cooling the console  |  Controller signal | Fan turns off | Fan turns off  |Mannual |
-|  H_06 |  L_6.1   | OLED screen turns on and the game is viewed | Controller signal | Displays game | Game is displayed |Mannual |
+| H_02  | L_2.1 | Audio output: When the console is turned on the speaker shall turn on  |  Signal from the controller |Speaker works |The intro notes and the game sound is played using the speaker | mannual |
+| H_03 | L_3.1 | RTD sensor working is checked by varying the temperature | The temperature knob in the IDE is changed to obervee the change in temperature |Temperature change and auto cooling system turns on | no error |Mannual |
+| H_04  | L_.4.1| Fan runs when poewred using the PWM signal from the controller | Controller signal | Fan turns on | Fan turns on  |Mannual ||
+|  H_05 | L_5.1 | Fan turns off after cooling the console  |  Controller signal | Fan turns off | Fan turns off  |Mannual |
+|  H_06 | L_6.1 | OLED screen turns on and the game is viewed | Controller signal | Displays game | Game is displayed |Mannual |
 ------------------------------------------------------------------------------------------------
