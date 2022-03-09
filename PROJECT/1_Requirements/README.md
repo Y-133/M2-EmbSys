@@ -31,7 +31,6 @@ The gaming industry is arguably one of the most important and innovative sectors
 ####
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## SWOT Analysis ##
-## SWOT Analysis ##
 ####
 **STRENGTHS**   
 * Console has an auto cooling system.
