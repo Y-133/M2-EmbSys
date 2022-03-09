@@ -30,6 +30,18 @@ The gaming industry is arguably one of the most important and innovative sectors
 4) Powerful processor
 ####
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## MATERIALS  REQUIRED:
+1. ARDUINO UNO:
+2. BLDC MOTOR(assuumed as dc motor):
+3. MOTOR DRIVER L293: 
+4. COOLING FAN:
+5. OLED DISPLAY SSD1306: 
+6. OPAMP LM358:
+7. SPEAKER:
+8. BATTERY:
+9. RESISTOR AND CAPACITOR:
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## SWOT Analysis ##
 ####
 **STRENGTHS**   
