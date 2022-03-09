@@ -3,7 +3,7 @@
 ------------------------------------------------
 <h1 align="center"> SPACE WARRIOR </h1>
 <i><h3 align = "center"> Guard your galaxy </h3></i>
-<i><h3 align = "center"> * SPACE WARRIOR is a arduino based gaming console that runs a game space war.  </h3></i>
+<i><h3 align = "center"> SPACE WARRIOR is a arduino based gaming console that runs a game space war.  </h3></i>
 
 <div style='float:center'>
     <img src='https://github.com/Y-133/M2-EmbSys/blob/2801dd08b966b9d2cf655811155bac894a4c0a77/PROJECT/IMAGES/star.gif' width="400" height="500" alt="STAR WAR"/>
