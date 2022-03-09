@@ -1,3 +1,4 @@
+<h1 align="left">REPORT: </h1>
 <h1 align="center"> SPACE WARRIOR </h1>
 <i><h3 align = "center"> Guard your galaxy </h3></i>
 <i><h3 align = "center"> SPACE WARRIOR is a arduino based gaming console that runs a game space war.  </h3></i>
