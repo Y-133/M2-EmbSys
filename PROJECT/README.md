@@ -49,6 +49,6 @@
 5. Various other websites were used for programmiing references
 ---------------------------------------------------------------------------------------------------
 FEEDBACK: 
-
-[![Commander Cat](https://github.com/Y-133/M2-EmbSys/blob/1f17f5f7165c2673cc661228cfa595af80260892/PROJECT/IMAGES/commander%20cat.jpg)]( https://forms.gle/9V8cmYtPK8R3bMvPA)
-<p align =" right"> Click me to tell your feedback </p>
+|---|---|
+| [![chief commander Bose](https://github.com/Y-133/M2-EmbSys/blob/f58359ae2250b86e70ce3565c56ce943c2a1e107/PROJECT/IMAGES/halo2.jpg)](https://forms.gle/qesNg4Qc73XfuXkT6) |
+<p align =" center"> Meet chief commander Bose. Tell him your valuable feedback. <br> Thanks in advance. </p> |
