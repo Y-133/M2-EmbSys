@@ -2,19 +2,15 @@
 
 Embedded system learning repo. 
 -----------------------------------------------------------------
-
-
 # Embedded system Project 
-<h1 align="center">Nintendo like gameing console using arduino </h1>
-<i><h3 align = "center"> Feel the real spirit in you </h3></i>
+<h1 align="center"> SPACE WARRIOR </h1>
+<i><h3 align = "center"> Guard your galaxy </h3></i>
+<i><h3 align = "center"> SPACE WARRIOR is a arduino based gaming console that runs a game space war.  </h3></i>
 
 <p align="center">
-  <img width="680" src="https://github.com/Y-133/M2-EmbSys/blob/main/images/arduino_game.jpg" alt="Nintendo like hand held gaming console">
+  <img width="1080 "height="500 " src="https://github.com/Y-133/M2-EmbSys/blob/a2454516c7c7140fc056e7bcaf77e192b621d79b/PROJECT/IMAGES/space%20battle.jpg" alt="FM_pic">
 </p>
-## Description
-The project is all about developing and playing the fun nintendo like games using the Atmega based Arduino controller. The project can be more precisely defined as handheld game console which is a small, portable self-contained video game console with a built-in screen, game controls and speakers. Handheld game consoles are smaller than home video game consoles and contain the console, screen, speakers, and controls in one unit, allowing people to carry them and play them at any time or place. 
-This console is brained by Arduino with a marvelous display screen. The game is controlled using the joystick and few buttons. The console has dedicated on/off switch and a dedicated automatic cooling system that keeps the console cool.
 
 
-Cureent status:
-The Project is being build and coded. The project will be simulated using the Simulide.
+| ![Chief commander Bose](https://github.com/Y-133/M2-EmbSys/blob/f58359ae2250b86e70ce3565c56ce943c2a1e107/PROJECT/IMAGES/halo2.jpg) Meet Chief commander Bose. <br>| The project is all about developing and playing the fun nintendo like games using the Arduino based on Atmega controller. The project can be more precisely defined as handheld game console which is a small, portable self-contained video game console with a built-in screen, game controls and speakers. <br> Why wait? Experience space war. |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
