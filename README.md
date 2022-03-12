@@ -1,5 +1,3 @@
-# M2-EmbSys
------------------------------------------------------------------
 # Embedded system Project 
 <h1 align="center"> SPACE WARRIOR </h1>
 <i><h3 align = "center"> Guard your galaxy </h3></i>
