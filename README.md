@@ -1,6 +1,4 @@
 # M2-EmbSys
-
-Embedded system learning repo. 
 -----------------------------------------------------------------
 # Embedded system Project 
 <h1 align="center"> SPACE WARRIOR </h1>
